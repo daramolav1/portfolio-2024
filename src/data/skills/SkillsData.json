@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "thumb": "/images/skills/js.png",
+    "title": "JavaScript"
+  },
+  {
+    "id": 2,
+    "thumb": "/images/skills/react.png",
+    "title": "React"
+  },
+  {
+    "id": 3,
+    "thumb": "/images/skills/java.png",
+    "title": "Java"
+  },
+  {
+    "id": 4,
+    "thumb": "/images/skills/html.png",
+    "title": "HTML"
+  },
+  {
+    "id": 5,
+    "thumb": "/images/skills/css.png",
+    "title": "CSS"
+  },
+  {
+    "id": 6,
+    "thumb": "/images/skills/sass.png",
+    "title": "Sass"
+  },
+  {
+    "id": 7,
+    "thumb": "/images/skills/typescript.png",
+    "title": "TypeScript"
+  },
+  {
+    "id": 8,
+    "thumb": "/images/skills/redux.png",
+    "title": "Redux"
+  },
+  {
+    "id": 9,
+    "thumb": "/images/skills/jest.png",
+    "title": "Jest"
+  },
+  {
+    "id": 10,
+    "thumb": "/images/skills/node.png",
+    "title": "Node"
+  },
+  {
+    "id": 11,
+    "thumb": "/images/skills/postman.png",
+    "title": "Postman"
+  },
+  {
+    "id": 12,
+    "thumb": "/images/skills/mongo-db.png",
+    "title": "MongoDB"
+  },
+  {
+    "id": 13,
+    "thumb": "/images/skills/sql.png",
+    "title": "SQL"
+  },
+  {
+    "id": 14,
+    "thumb": "/images/skills/jira.png",
+    "title": "Jira"
+  },
+  {
+    "id": 15,
+    "thumb": "/images/skills/git.png",
+    "title": "Git"
+  },
+  {
+    "id": 16,
+    "thumb": "/images/skills/wordpress.png",
+    "title": "Wordpress"
+  },
+
+  {
+    "id": 17,
+    "thumb": "/images/skills/web-components.png",
+    "title": "Web Components"
+  },
+  {
+    "id": 18,
+    "thumb": "/images/skills/figma.png",
+    "title": "Figma"
+  }
+]

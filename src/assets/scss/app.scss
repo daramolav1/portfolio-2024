@@ -1,0 +1,81 @@
+/*---------------------------------------------   
+STYLESHEET INDEXING
+|
+|___ Default Styles
+|	|___ Variables
+|	|___ Reset Styels
+|	|___ Typography
+|	|___ Forms Styles
+|	|___ Helper Classes 
+|
+|___ Elements Styles
+|	|___ Breadcrumb
+|	|___ Button
+|	|___ Section Heading
+|
+|___Template Styles
+|	|___ About Us
+|	|___ Banner
+|	|___ Call To Action
+|	|___ Contact
+|	|___ Project
+|	|___ Testimonial
+|	|___  Why Choose
+|	|___  404 Error
+|
+|___Blocks Styles
+|	|___ Header Styles
+|	|___ Footer Styles
+|
+|___Dark Style
+|
+|___Spacing
+|
+|___ END STYLESHEET INDEXING
+
+--------------------------------------------*/
+
+/*=======================================================================
+1. Default Styles
+=========================================================================*/
+@import "default/variable";
+@import "default/reset";
+@import "default/typography";
+@import "default/form";
+@import "default/classes";
+
+/*=======================================================================
+2. Elements Styles
+=========================================================================*/
+@import "elements/breadcrumb";
+@import "elements/button";
+@import "elements/section-heading";
+
+/*=======================================================================
+3. Template Styles
+=========================================================================*/
+@import "template/about";
+@import "template/banner";
+@import "template/call-to-action";
+@import "template/contact";
+@import "template/project";
+@import "template/testimonial";
+@import "template/team";
+@import "template/common-pages";
+@import "template/onepage";
+
+/*=======================================================================
+4.Blocks Styles 
+=========================================================================*/
+@import "header/header";
+@import "footer/footer";
+
+/*=======================================================================
+5. Dark Style 
+=========================================================================*/
+@import "dark-style/dark-version";
+
+/*=======================================================================
+6. Spacing 
+=========================================================================*/
+@import "default/spacing";

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "fromtext": "TD Bank",
+    "from": "/images/icon/td-icon.png",
+    "description": "“I have been working with Victor in an Agile POD since February 2023. During our work, Victor was involved in a significant variety of development projects for a credit system. Victor was always demonstrating teamwork, technical collaboration with other team members (quality analysts, business analysts, and his peer developers), curiosity, and timely delivery of assignments. Victor also has been fully involved in Agile sprint planning, sprint reviews, sprint demos, daily stand-up meetings, and in creating project artifacts using Jira and Confluence.”",
+    "authorimg": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "authorname": "Boris Kozhevnikov",
+    "authordesig": "Product Owner"
+  },
+  {
+    "id": 2,
+    "fromtext": "TD Bank",
+    "from": "/images/icon/td-icon.png",
+    "description": "“Victor is an outstanding technologist known for his exceptional work ethic. His dedication and ability to go above and beyond make him an invaluable asset to any team. Victor consistently delivers high-quality work, and his problem-solving skills shine in tackling complex challenges. In addition to his technical capabilities, Victor's communication and leadership abilities set him apart. He effortlessly collaborates with colleagues, skillfully conveying complex technical concepts.”",
+    "authorimg": "https://media.licdn.com/dms/image/C4D03AQFk2DGe-HnDkQ/profile-displayphoto-shrink_400_400/0/1622327031791?e=1713398400&v=beta&t=mGxGnUeVf_orsg85UJEzNuSO5frLoxljPOiOInDdZSQ",
+    "authorname": "Jennifer Dusovic",
+    "authordesig": "Engagement Strategist"
+  }
+]

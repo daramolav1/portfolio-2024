@@ -1,0 +1,52 @@
+/*-------------------------
+    Team
+-------------------------*/
+.team-grid {
+  text-align: center;
+  margin-bottom: 80px;
+  .thumbnail {
+    margin-bottom: 30px;
+    display: inline-block;
+    position: relative;
+    min-height: 128px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    &:after {
+      content: "";
+      height: 100%;
+      width: 100%;
+      border: 8px dashed var(--color-rose);
+      border-radius: 50%;
+      position: absolute;
+      left: 0;
+      top: 0;
+      transform: rotate(90deg);
+      visibility: hidden;
+      opacity: 0;
+      transition: var(--transition);
+    }
+    img {
+      max-width: 128px;
+      border-radius: 50%;
+    }
+  }
+  .content {
+    .title {
+      color: var(--color-white);
+      margin-bottom: 10px;
+    }
+  }
+  &:hover,
+  &.active {
+    .thumbnail {
+      a {
+        &:after {
+          visibility: visible;
+          opacity: 1;
+          transform: rotate(0deg);
+        }
+      }
+    }
+  }
+}

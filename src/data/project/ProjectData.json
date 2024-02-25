@@ -1,0 +1,96 @@
+[
+  {
+    "id": 3,
+    "image": "/images/project/pac-man.png",
+    "title": "Pac-Man",
+    "category": ["Practice Projects"],
+    "techStack": ["JavaScript", "HTML", "CSS"],
+    "excerpt": "Pac-Man is an action maze chase video game; the player controls the eponymous character through an enclosed maze. The objective of the game is to eat all of the dots placed in the maze while avoiding four colored ghosts. (Working on deployable link as well as level difficulties, start and game over screen + sound/audio effects)",
+    "github": "https://github.com/daramolav1/pac-man",
+    "demo": ""
+  },
+  {
+    "id": 4,
+    "image": "/images/project/marketing-landing-page.png",
+    "title": "Marketing Page",
+    "category": ["Practice Projects"],
+    "techStack": ["React", "JavaScript", "HTML", "CSS"],
+    "excerpt": "A standalong react web page, created specifically for marketing/advertising campaign for a bank. The purpose is to capture info from contacts in exchange for something of value (No data is being stored/misused).",
+    "github": "https://github.com/daramolav1/marketing-landing-page",
+    "demo": "https://marketing-campaign-landing-page.netlify.app/"
+  },
+  {
+    "id": 5,
+    "image": "/images/project/to-do-list.png",
+    "title": "To-Do List",
+    "category": ["Practice Projects"],
+    "techStack": ["React", "JavaScript", "HTML", "CSS"],
+    "excerpt": "A MERN stack To-Do list app. Working on backend to store items in MongoDB database.",
+    "github": "https://github.com/daramolav1/to-do-list",
+    "demo": "https://to-do-list-app-client.netlify.app/"
+  },
+  {
+    "id": 6,
+    "image": "/images/project/kanban-board.png",
+    "title": "Kanban Board",
+    "category": ["Practice Projects", "App/Tool"],
+    "techStack": ["React", "JavaScript", "Tailwind CSS", "Framer Motion"],
+    "excerpt": "A Notion inspired sortable drag and drop Kanban board",
+    "github": "https://github.com/daramolav1/kanban-board",
+    "demo": "https://kanban-board-client.netlify.app/"
+  },
+  {
+    "id": 7,
+    "image": "/images/project/playbook-sports.png",
+    "title": "Playbook Sports",
+    "category": ["Websites"],
+    "techStack": ["JavaScript", "HTML", "CSS", "Web Components"],
+    "excerpt": "Assisted in developing an intuitive user interface for the company website using tech stack.",
+    "demo": "https://www.callplaybook.com/covid-comply"
+  },
+  {
+    "id": 8,
+    "image": "/images/project/local-hoops.png",
+    "title": "Local Hoops",
+    "category": ["Websites"],
+    "techStack": ["JavaScript", "HTML", "CSS", "Web Components"],
+    "excerpt": "This is a site I built during my time at Playbook Sports for a organization called Local Hoops. I built this site using Web Components, HTML, CSS, and JavaScript. I also used a few plugins to help with the functionality of the site.",
+    "demo": "https://www.localhoops.org/"
+  },
+  {
+    "id": 9,
+    "image": "/images/project/rise-league.png",
+    "title": "Rise League",
+    "category": ["Websites", "Wordpress"],
+    "techStack": ["JavaScript", "HTML", "CSS", "Wordpress"],
+    "excerpt": "This is a site I built during my time at Playbook Sports for a organization called Rise League. I built this site using Wordpress, HTML, CSS, and JavaScript. I also used a few plugins to help with the functionality of the site.",
+    "demo": "https://riseleagueinc.org/"
+  },
+  {
+    "id": 10,
+    "image": "/images/project/redlands-jr.png",
+    "title": "Redlands Athletics",
+    "category": ["Websites", "Wordpress"],
+    "techStack": ["JavaScript", "HTML", "CSS", "Wordpress"],
+    "excerpt": "This is a site I built during my time at Playbook Sports for a organization called Redlands Athletics. I built this site using Wordpress, HTML, CSS, and JavaScript. I also used a few plugins to help with the functionality of the site.",
+    "demo": "https://redlandsjuniorfootball.playbookapi.com/"
+  },
+  {
+    "id": 11,
+    "image": "/images/project/big-city-volleyball.png",
+    "title": "Big City Volleyball",
+    "category": ["Websites", "Wordpress"],
+    "techStack": ["JavaScript", "HTML", "CSS", "Wordpress"],
+    "excerpt": "This is a site I built during my time at Playbook Sports for a organization called Big City Volleyball. I built this site using Wordpress, HTML, CSS, and JavaScript. I also used a few plugins to help with the functionality of the site.",
+    "demo": "https://bigcityvolleyball.com/"
+  },
+  {
+    "id": 12,
+    "image": "/images/project/passion-4-youth.png",
+    "title": "Passion 4 Youth",
+    "category": ["Websites", "Wordpress"],
+    "techStack": ["JavaScript", "HTML", "CSS", "Wordpress"],
+    "excerpt": "This is a site I built during my time at Playbook Sports for a organization called Passion 4 Youth. I built this site using Wordpress, HTML, CSS, and JavaScript. I also used a few plugins to help with the functionality of the site.",
+    "demo": "https://passion4youth.org/"
+  }
+]
