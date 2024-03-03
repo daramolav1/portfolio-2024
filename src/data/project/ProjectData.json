@@ -5,9 +5,9 @@
     "title": "Pac-Man",
     "category": ["Practice Projects"],
     "techStack": ["JavaScript", "HTML", "CSS"],
-    "excerpt": "Pac-Man is an action maze chase video game; the player controls the eponymous character through an enclosed maze. The objective of the game is to eat all of the dots placed in the maze while avoiding four colored ghosts. (Working on deployable link as well as level difficulties, start and game over screen + sound/audio effects)",
+    "excerpt": "Pac-Man is an action maze chase video game; the player controls the eponymous character through an enclosed maze. The objective of the game is to eat all of the dots placed in the maze while avoiding four colored ghosts.",
     "github": "https://github.com/daramolav1/pac-man",
-    "demo": ""
+    "demo": "https://pacman-game-client.netlify.app/"
   },
   {
     "id": 4,
