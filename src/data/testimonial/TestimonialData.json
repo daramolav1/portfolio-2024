@@ -16,5 +16,14 @@
     "authorimg": "https://media.licdn.com/dms/image/C4D03AQFk2DGe-HnDkQ/profile-displayphoto-shrink_400_400/0/1622327031791?e=1713398400&v=beta&t=mGxGnUeVf_orsg85UJEzNuSO5frLoxljPOiOInDdZSQ",
     "authorname": "Jennifer Dusovic",
     "authordesig": "Engagement Strategist"
+  },
+  {
+    "id": 3,
+    "fromtext": "TD Bank",
+    "from": "/images/icon/td-icon.png",
+    "description": "“Victor has a very strong work ethic and any company would be lucky to have him. When we were first working together we were put on a team to innovate and his ideas were invaluable. To add to this, he is an excellent addition to the team as he is a pleasure to work with and is a great team player. His technical skills are excellent as well as he has shown the ability to solve complex problems. I wouldn’t hesitate for a second to recommend him for a software engineering position at any company.”",
+    "authorimg": "https://media.licdn.com/dms/image/D4E03AQESEfxCJe9tSA/profile-displayphoto-shrink_100_100/0/1675115450296?e=1715817600&v=beta&t=jexaXeC-HV_eTEIQXZ1lBnjl3hnYmbo3FLvXRnByfgQ",
+    "authorname": "Carlos Cuellar",
+    "authordesig": "Software Engineer"
   }
 ]
